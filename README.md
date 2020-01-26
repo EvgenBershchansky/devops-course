@@ -30,8 +30,8 @@ That folder consits of **VagrantFile** and **provision** folder.
 
 		$ vagrant up
 
-- To check availability of Apache web server on Ubuntu 18.04, you need open web browser and go to ``localhost:8080``
-- To check availability of Apache web server on CentOS7, you need open web browser and go to ``localhost:8081``
+- To check availability of Apache web server on Ubuntu 18.04, you need open web browser and go to ``http://localhost:8080``
+- To check availability of Apache web server on CentOS7, you need open web browser and go to ``http://localhost:8081``
 
 - For stop and delete all vagrant virtual machines, you need execute command:
 
